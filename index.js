@@ -1,23 +1,10 @@
-let img;
-let imgShana;
-let imgKarim;
-let imgNyria;
-let imgLaurine;
-let imgEcal;
-let imgAncestor;
+
 let imgHead;
 let imgLogo;
 let vit, tim, dens, master;
 let stressLevel;
 // P5JS preload
 function preload() {
-    img = loadImage("assets/imgB.png");
-    imgShana = loadImage("assets/shana.jpg");
-    imgKarim = loadImage("assets/Montreal_Canadiens.png");
-    imgNyria = loadImage("assets/nyria.png");
-    imgLaurine = loadImage("assets/garden-flowers.png");
-    imgAncestor = loadImage("assets/Ancestor.png");
-    imgEcal= loadImage("assets/final logo.png");
     imgHead= loadImage("assets/Head_détouré.png");
     imgLogo= loadImage("assets/Logo_détouré.png");
 }
